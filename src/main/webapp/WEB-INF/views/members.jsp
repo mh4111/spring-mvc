@@ -9,9 +9,10 @@
 <a href="/index.html">메인</a>
 <table>
     <thead>
-    <th>id=</th>
-    <th>username=</th>
-    <th>age=</th>
+    <th>id</th>
+    <th>username</th>
+    <th>age
+    </th>
     </thead>
     <tbody>
     <c:forEach var="item" items="${members}">
